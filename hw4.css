@@ -10,7 +10,7 @@ header {
     width: 100%;
     background-color:Gray;
     position: sticky;
-    top 0;
+    top: 0;
     z-index: 1000;
     transition: background-color 0.3s ease;
 }
