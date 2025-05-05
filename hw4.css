@@ -56,12 +56,18 @@ th {
     font-family: arial;
 }
 footer {
-    position: flex;
+    position: sticky;
     bottom: 0;
     width: 100%;
+    height: 2.5rem;
     background-color:gray;
-    height: 2.0rem;
+    color: white;
+    text-align: center;
+    line-height: 2.5rem;   
+    z-index: 999;
+    font-family: "optima", sans-serif;
 }
+
 #footer {
     text-align: right;
     font-family:"optima", sans-serif ;
